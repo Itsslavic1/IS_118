@@ -67,7 +67,7 @@ Diskusjon: Avklaring av roller. Erling leder en diskusjon for å avklare hvem so
 Erling oppsummerer de viktigste punktene og legger frem en tydelig plan for de neste ukene.
 Han gir rom for spørsmål før møtet avsluttes med en positiv oppsummering
 
-##Del 3
+## Del 3
 Rammer for relasjonelle kontrakter
 Når man snakker om prosjektstyring, nevnes ofte det såkalte jerntriangelet. Det viser til at prosjekter vurderes ut fra tid, kostnad og kvalitet (Turner, 1999). Dette er fortsatt viktig, men i et prosjekt som å lage en digital medborgerportal er det ikke nok å bare styre etter disse tre faktorene. Her deltar mange ulike personer, med forskjellige bakgrunner og interesser, og da blir samarbeidet like viktig som tidsplanen. For å få dette til kan prosjektlederen bruke det som kalles relasjonelle kontrakter.
 Relasjonelle kontrakter er ikke juridiske avtaler i vanlig forstand, men er mer et ønske og en felles forståelse av hvordan man skal jobbe sammen. Smyth og Edkins (2007) viser at slike rammer kan være veldig nyttige i prosjekter med mange aktører, fordi de legger et grunnlag for tillit, respekt og bedre kommunikasjon. For Erling som er prosjektleder betyr dette å lage en tydelig avtale om samarbeid, i tillegg til de tekniske planene. 
