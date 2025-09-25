@@ -1,4 +1,4 @@
-##Del 5
+## Del 5
 
 Prosjektet til Erling har en fast tidsramme på 15 måneder, et budsjett og klare mål. Slike rammer hjelper med å gi fokus, men de gir mye press. Det kan lett oppstå en følelse av at tiden renner ut allerede fra starten. Mange i gruppen kan dermed føle at de må “komme i gang fort”. Det gir framdrift, men kan samtidig føre til at viktige ting blir hoppet over. Analyse, diskusjon og relasjonsbygging taper ofte når handlingspresset er sterkt.
 Det er her planleggingsfellen kommer inn. Den handler om at mennesker nesten alltid undervurderer hvor lang tid en oppgave tar. Selv erfarne prosjektfolk går i denne fellen. Man blir optimistisk og tror ting kan gå raskere enn de faktisk gjør. Da ender man opp med en plan som ser realistisk ut på papir, men som egentlig ikke fungerer i virkeligheten. Når man har lagt ned masse arbeid i planen, blir det fort vanskelig å justere. Dette kalles stiavhengighet, man holder seg til en kurs selv om den burde endres.
