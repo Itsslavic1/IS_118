@@ -1,4 +1,3 @@
-
 1. Strategi for rekruttering og sammensetning
 For et flerfaglig prosjekt som utviklingen av digital medborgerportal så er en målrettet bemanning og organisering viktig. Et team som er sterke, må balansere faglig mangfold fra starten. Det vil gi en variert kunnskap og nye ideer med demografisk og sosial likhet. Det vil skape en tidlig og effektiv samhandling. (Prosjekt Norge, 2017; Hjertø, 2011).
  
@@ -68,6 +67,19 @@ Diskusjon: Avklaring av roller. Erling leder en diskusjon for å avklare hvem so
 Erling oppsummerer de viktigste punktene og legger frem en tydelig plan for de neste ukene.
 Han gir rom for spørsmål før møtet avsluttes med en positiv oppsummering
 
+##Del 3
+Rammer for relasjonelle kontrakter
+Når man snakker om prosjektstyring, nevnes ofte det såkalte jerntriangelet. Det viser til at prosjekter vurderes ut fra tid, kostnad og kvalitet (Turner, 1999). Dette er fortsatt viktig, men i et prosjekt som å lage en digital medborgerportal er det ikke nok å bare styre etter disse tre faktorene. Her deltar mange ulike personer, med forskjellige bakgrunner og interesser, og da blir samarbeidet like viktig som tidsplanen. For å få dette til kan prosjektlederen bruke det som kalles relasjonelle kontrakter.
+Relasjonelle kontrakter er ikke juridiske avtaler i vanlig forstand, men er mer et ønske og en felles forståelse av hvordan man skal jobbe sammen. Smyth og Edkins (2007) viser at slike rammer kan være veldig nyttige i prosjekter med mange aktører, fordi de legger et grunnlag for tillit, respekt og bedre kommunikasjon. For Erling som er prosjektleder betyr dette å lage en tydelig avtale om samarbeid, i tillegg til de tekniske planene. 
+Et første viktig steg er at alle får avklart forventninger tidlig. Hva kan de bidra med, og hva trenger de fra de andre? Brukerrepresentanter kan for eksempel ha begrenset tid, mens sikkerhetseksperten kan ha strenge krav som må oppfylles. Hvis man tar slike ting opp fra start, unngår man mange misforståelser senere.
+Det kan også være lurt å bli enige om noen enkle spilleregler. Dette kan for eksempel handle om hvordan møter skal gjennomføres, hvordan man gir tilbakemeldinger, og hva man gjør hvis uenigheter skulle oppstå. Avtaler som dette gjør at det føles tryggere å samarbeide, selv når man har ulike meninger.
+En annen viktig del er å tydeliggjøre roller og ansvar. Alle i gruppen må føle at de faktisk blir hørt, spesielt de som representerer innbyggerne. Samtidig må politiske og faglige interesser balanseres på en rettferdig måte.
+Til slutt bør samarbeidet mellom prosjekteier og prosjektleder være klart definert på forhånd. Her kan man avtale hvor ofte prosjektlederen skal rapportere, hvilke beslutninger som kan tas uten å gå til prosjekteier, og hvordan man håndterer uenigheter mellom politikk og fag.
+Alt i alt gir relasjonelle kontrakter et bredere bilde av hva som skal til for å lykkes med prosjektet. Det handler ikke bare om å levere på tid og budsjett, men også om å bygge gode relasjoner og skape tillit. For Erling kan dette være helt avgjørende for å få et team som samarbeider godt og oppnår målet om å styrke dialogen mellom kommunen og innbyggerne.
+Kilder: 
+Turner, J. R. (1999). The handbook of project-based management. McGraw-Hill.
+Smyth, H. J., & Edkins, A. J. (2007). Relationship management in the management of PFI/PPP projects in the UK. International Journal of Project Management, 25(3), 232–240.
+
 ## Del 4
 
 Konflikter skjer hele tiden, det kan forekomme i alle omstendigheter, spesielt i jobbsammenheng. Derfor er det viktig å vite hvordan man kan forbygge og løse en eventuell konflikt. Hvis ikke kan det påvirke forholdet, som igjen påvirker resultatet. Noen veldig vanlige konflikter er: relasjonskonflikter, verdikonflikter, interessekonflikter og sakskonflikter (To eller flere, s189). 
@@ -87,4 +99,5 @@ Det er her planleggingsfellen kommer inn. Den handler om at mennesker nesten all
 Gruppen anbefaler at prosjektlederen unngår dette ved å lage en grov plan med milepæler i starten, å unngå for mange detaljer. Det kan bety at man planlegger de nærmeste månedene nøyere, og holder det som kommer senere litt mer åpent. Dette gir fleksibilitet. Metoden kalles rolling wave planning. Det er bedre å kunne justere underveis, enn å bruke masse tid på detaljer som kanskje må skrives om senere.
 Et annet råd er å bygge inn en buffer. Litt ekstra tid og penger i tidsrammen som gir luft når ting ikke går som planlagt, og det gjør det sjelden. Prosjektlederen bør også være tydelig på at planen er et levende dokument. Endringer skal ikke ses som feil, men som en naturlig del av arbeidet som skjer over tid.
 Tidspress påvirker også gruppen som en sosial enhet. Når man har dårlig tid, hopper folk fort til oppgaver i stedet for å avklare roller og bygge tillit. Det kan skape problemer senere, spesielt når konflikt oppstår. Derfor er det lurt å sette av tid til små møter eller korte refleksjoner, selv om det kan virke som om man kaster bort tid. Slike pauser kan faktisk spare tid senere.
+
 
