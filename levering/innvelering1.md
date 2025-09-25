@@ -1,3 +1,4 @@
+## Del 1
 1. Strategi for rekruttering og sammensetning
 For et flerfaglig prosjekt som utviklingen av digital medborgerportal så er en målrettet bemanning og organisering viktig. Et team som er sterke, må balansere faglig mangfold fra starten. Det vil gi en variert kunnskap og nye ideer med demografisk og sosial likhet. Det vil skape en tidlig og effektiv samhandling. (Prosjekt Norge, 2017; Hjertø, 2011).
  
@@ -50,8 +51,8 @@ d) Tidlig planlegging og hvorfor det er avgjørende
 -            Legger til rette for rask oppstart sånn at prosjektet fokuserer mer på utvikling enn interne avklaringer.
 -            Danner et solid utgangspunkt for neste steg i prosjektet. Blant annet det første oppstartsmøtet, relasjonelle kontrakter og rutiner for kommunikasjon og håndtering av uenigheter. (Prosjekt Norge (2017); Hjertø 2011).
  
- 
-2. Design av «det første møtet»
+## Del 2
+Design av «det første møtet»
 Det første møtet for prosjektet med den digitale medborgerportalen er utrolig viktig. Det handler ikke bare om å gå gjennom en gjøremålsliste, men det handler om å bygge en kultur der folk føler seg trygge og hørt. Målet er å skape et solid fundament av tillit og felles forståelse, slik at prosjektet starter på riktig fot. Vi har satt sammen en agenda som balanserer det formelle med det uformelle (prosjektets harde krav og teamets myke dynamikk), slik at Erling kan maksimere verdien av den første interaksjonen.
  
 Møteagenda: Oppstart av medborgerportalen
