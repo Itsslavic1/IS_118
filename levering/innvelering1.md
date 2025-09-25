@@ -101,4 +101,22 @@ Gruppen anbefaler at prosjektlederen unngår dette ved å lage en grov plan med 
 Et annet råd er å bygge inn en buffer. Litt ekstra tid og penger i tidsrammen som gir luft når ting ikke går som planlagt, og det gjør det sjelden. Prosjektlederen bør også være tydelig på at planen er et levende dokument. Endringer skal ikke ses som feil, men som en naturlig del av arbeidet som skjer over tid.
 Tidspress påvirker også gruppen som en sosial enhet. Når man har dårlig tid, hopper folk fort til oppgaver i stedet for å avklare roller og bygge tillit. Det kan skape problemer senere, spesielt når konflikt oppstår. Derfor er det lurt å sette av tid til små møter eller korte refleksjoner, selv om det kan virke som om man kaster bort tid. Slike pauser kan faktisk spare tid senere.
 
+## Del 6
+DEL 6 (Kishi):
+Kommunikasjon er avgjørende for at et prosjekt skal lykkes. I et tverrfaglig team med ulike roller og bakgrunn kan misforståelser lett oppstå dersom det ikke etableres tydelige rammer. God kommunikasjon sikret at alle har samme forståelse, beslutninger tas raskt, og teamet bygger tillit tidlig. (PMI, 2021)
+For å optimalisere dette i praksis må kommunikasjonskanalene være gjennomtenkte og konsekvente. Formelle avklaringer og beslutninger bør sendes via e-post slik at de kan arkiveres, mens løpende spørsmål burde håndteres i samhandlingsverktøy som Teams eller Slack for å bevare tempo. Oppgaver, endringsforslag og avklaringer bør samles i et sakssystem som GitHub Issues slik at status, eierskap og historikk er synlig for alle. En enkel regel om svar innen 24 timer i arbeidstiden skaper forutsigbarhet på tvers av fagområder og hindrer stopp i arbeid uten at noen merker det. (PMI, 2021)
+Vi bør oppnå en strukturert møterytme, da dette gir positiv retning uten å bli belastende. Et kort, ukentlig statusmøte holder søkelys på hva som er gjort, neste steg og eventuelle hindringer for fremdrift. Et månedlig styringsmøte brukes til å samle økonomi, risiko og milepæler på ett sted. Dette gjøres for at prioriteringer kan endres på et informert grunnlag. På månedlig basis bør teamet demonstrere faktisk fremdrift for interne og eksterne interessenter. Formålet med slike demoer er å gi oss en tidlig verifisering av antakelser og skaper felles eierskap.
+Det er viktig med utmerket forberedelse og oppfølgning for økt kvalitet. En kort agenda sendes i forkant og møtene starter og avslutter til avtalt tid. Møtene bør avsluttes med klare beslutninger som umiddelbart skrives inn i en beslutnings logg. Dette gjør det lettere å følge opp slik at vi får oversiktlig kommunikasjon (PMI, 2021). Mellom møtene sendes korte og skriftlige statusoppdateringer slik at alle holder seg informert. Lengre diskusjoner lagres i sakssystemet, hvor de er tilgjengelige over tid. På denne måten flyter informasjonen godt uten behov for flere møter, og teamet får mer tid til å produsere.
+Avslutningsvis, bør kommunikasjonen være inkluderende og informasjonen skrives klart og tilgjengelig. Fagterminologi forklares ved behov, og teamet forankrer prinsippet om å kritisere ideer, men ikke personer. På denne måten bygges en psykologisk trygghet som forskning binder mot åpenhet, økt læring og gunstigere team-prestasjon. Vi må behandle eventuell uenighet som et felles problem, slik at kvaliteten på løsningen øker (Edmondson & Lei, 2014). Vi kan styrke dialogen gjennom enkle metoder slik som andel møteprotokoller, antall beslutninger uten ansvarlig , og gjennomføring av demoer. Eventuelle avvik i rutine utløser en forandring i teamets progresjonsrytme. (PMI, 2021, Kerzner, 2022)
+
+Kilder:
+Edmondson, A. C., &amp; Lei, Z. (2014) Psychological Safety: The history, renaissance and future of an
+interpersonal construct. Annual Review Of Organizational Psychology and Organizational Behavior,
+1(1), 23-43. https://www.annualreviews.org/content/journals/10.1146/annurev-orgpsych-031413-
+091305
+Kerzner, H. (2022). Project Management: A systems approach to planning, scheduling and controlling
+(13 th ed). Wiley.
+Project Management Institute. (2021). A guide to the project management body of knowledge
+(PMBOK © Guide) (7 th ed). Project Management Institute-
+
 
