@@ -60,17 +60,21 @@ Det første møtet for prosjektet med den digitale medborgerportalen er utrolig 
 
 
 ## Del 3
-Rammer for relasjonelle kontrakter
-Når man snakker om prosjektstyring, nevnes ofte det såkalte jerntriangelet. Det viser til at prosjekter vurderes ut fra tid, kostnad og kvalitet (Turner, 1999). Dette er fortsatt viktig, men i et prosjekt som å lage en digital medborgerportal er det ikke nok å bare styre etter disse tre faktorene. Her deltar mange ulike personer, med forskjellige bakgrunner og interesser, og da blir samarbeidet like viktig som tidsplanen. For å få dette til kan prosjektlederen bruke det som kalles relasjonelle kontrakter.
-Relasjonelle kontrakter er ikke juridiske avtaler i vanlig forstand, men er mer et ønske og en felles forståelse av hvordan man skal jobbe sammen. Smyth og Edkins (2007) viser at slike rammer kan være veldig nyttige i prosjekter med mange aktører, fordi de legger et grunnlag for tillit, respekt og bedre kommunikasjon. For Erling som er prosjektleder betyr dette å lage en tydelig avtale om samarbeid, i tillegg til de tekniske planene. 
+Når man snakker om prosjektstyring, nevnes ofte det såkalte jerntriangelet. Det viser til at prosjekter vurderes ut fra tid, kostnad og kvalitet. Dette er fortsatt viktig, men i et prosjekt som å lage en digital medborgerportal er det ikke nok å bare styre etter disse tre faktorene. Her deltar mange ulike personer, med forskjellige bakgrunner og interesser, og da blir samarbeidet like viktig som tidsplanen. For å få dette til kan prosjektlederen bruke det som kalles relasjonelle kontrakter.
+
+Relasjonelle kontrakter er ikke juridiske avtaler i vanlig forstand, men er mer et ønske og en felles forståelse av hvordan man skal jobbe sammen. Slike rammer kan være veldig nyttige i prosjekter med mange aktører, fordi de legger et grunnlag for tillit, respekt og bedre kommunikasjon. For Erling som er prosjektleder betyr dette å lage en tydelig avtale om samarbeid, i tillegg til de tekniske planene. (Jacobsen, 2016, s. 40–45)
+
 Et første viktig steg er at alle får avklart forventninger tidlig. Hva kan de bidra med, og hva trenger de fra de andre? Brukerrepresentanter kan for eksempel ha begrenset tid, mens sikkerhetseksperten kan ha strenge krav som må oppfylles. Hvis man tar slike ting opp fra start, unngår man mange misforståelser senere.
+
 Det kan også være lurt å bli enige om noen enkle spilleregler. Dette kan for eksempel handle om hvordan møter skal gjennomføres, hvordan man gir tilbakemeldinger, og hva man gjør hvis uenigheter skulle oppstå. Avtaler som dette gjør at det føles tryggere å samarbeide, selv når man har ulike meninger.
+
 En annen viktig del er å tydeliggjøre roller og ansvar. Alle i gruppen må føle at de faktisk blir hørt, spesielt de som representerer innbyggerne. Samtidig må politiske og faglige interesser balanseres på en rettferdig måte.
+
 Til slutt bør samarbeidet mellom prosjekteier og prosjektleder være klart definert på forhånd. Her kan man avtale hvor ofte prosjektlederen skal rapportere, hvilke beslutninger som kan tas uten å gå til prosjekteier, og hvordan man håndterer uenigheter mellom politikk og fag.
+
 Alt i alt gir relasjonelle kontrakter et bredere bilde av hva som skal til for å lykkes med prosjektet. Det handler ikke bare om å levere på tid og budsjett, men også om å bygge gode relasjoner og skape tillit. For Erling kan dette være helt avgjørende for å få et team som samarbeider godt og oppnår målet om å styrke dialogen mellom kommunen og innbyggerne.
-Kilder: 
-Turner, J. R. (1999). The handbook of project-based management. McGraw-Hill.
-Smyth, H. J., & Edkins, A. J. (2007). Relationship management in the management of PFI/PPP projects in the UK. International Journal of Project Management, 25(3), 232–240.
+
+
 
 ## Del 4
 
