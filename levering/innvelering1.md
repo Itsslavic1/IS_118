@@ -86,7 +86,6 @@ I teamet er det mange forskjellige bakgrunner, utdanning og synspunkt. Derfor er
 
 Det er ikke alltid at en konflikt kan forebygges, derfor er det viktig å ha en strategi for konfliktløsning. En konflikt blir vanskeligere å skjønne hvis den har vart lenge, så finn kilden fort. Thomas Gordon er en amerikansk psykolog som har mye kunnskap om konflikter. Når man skal løse konflikter, er det avgjørende at det er samsvar mellom ord og handlinger. Hvis man sier at man skal lytte, være åpen eller gjøre en endring, men så ikke følger opp i praksis, kan det skape mistillit og forverre konflikten. Tillit bygges når det man sier stemmer med det man faktisk gjør. Da viser man respekt, pålitelighet og at man tar konflikten på alvor. Gordon’s strategier går ut på vinn og tap på de forskjellige partene, den siste er vinn-vinn, som han anbefaler. Problemet med vinn–tap og tap–vinn-løsninger er at de skaper ubalanse i forholdet. Den ene parten “vinner”, mens den andre “taper”. Dette kan fungere på kort sikt, men i lengden kan det bygge opp bitterhet og nye konflikter. 
 Derfor mener Gordon at vinn-vinn er den beste løsningen. Her ser man en løsning som ivaretar begge parter sine behov, og som bygger på samarbeid, likeverd og respekt. Selv om denne metoden kan ta mer tid, fører den ofte til sterkere relasjoner, bedre kommunikasjon og varige løsninger. Vinn-vinn er derfor ofte den beste strategien for konfliktløsning, men kommer an på omstendighetene. Hvis det er lite tid igjen på prosjektet kan det skape problemer.
-Kilde: Gjøsund, P. Huseby, R. (2025). To eller flere, basiskunnskaper i gruppepsykologi
 
 ## Del 5
 
@@ -99,12 +98,13 @@ Tidspress påvirker også gruppen som en sosial enhet. Når man har dårlig tid,
 ## Del 6
 For at et prosjekt skal lykkes er det avgjørende med god kommunikasjon i forming-fasen. Når rammene for teamet er uklare, er det lett for misforståelser å oppstå.. For å forhindre dette etablerer vi en tydelig kommunikasjonsstruktur som spesifiserer hvem som informerer hvem, om hva, i hvilke kanaler, samt hvordan forståelse bekreftes og loggføres. Som et resultat vil teamet oppnå en felles forståelsesramme og et høyt nivå av beslutningstempo. Samtidig vil relasjonen styrkes gjennom åpen kommunikasjon som er preget med inkludering, ærlighet, kompetanse, empati og naturlighet (Jacobsen, 2016, s.82-83).
 
-I praksis gjøres dette med få, klare, og etterprøvbare rutiner Løpende avklaringer tas i Teams/Slack, mens formelle avklaringer og beslutninger sendes på epost for arkivering. For å holde styr på status, ansvar og historikk så registreres oppgaver, endringsforslag og avklaringer i GitHub Issues. For å sikre en reell toveis kommunikasjon innfører vi en 24 timers responsnorm i arbeidstiden (Gjøsund & Husebye, 2023, s.72).
+I praksis gjøres dette med få, klare, og etterprøvbare rutiner. Løpende avklaringer tas i Teams/Slack, mens formelle avklaringer og beslutninger sendes på epost for arkivering. For å holde styr på status, ansvar og historikk så registreres oppgaver, endringsforslag og avklaringer i GitHub Issues. For å sikre en reell toveis kommunikasjon innfører vi en 24 timers responsnorm i arbeidstiden (Gjøsund & Husebye, 2015, s.72).
 
-Kjernen i god prosjektkommunikasjon er ikke verktøyene i seg selv, men samspillet mellom menneskene. Når teamet utrykker seg presist, lytter etter hva den andre faktisk har oppfattet, og bekrefter forståelsen så blir budskapet til et felles eierskap. Dette resulterer i et delt situasjonsbilde, raskere beslutninger og tryggere samarbeid, noe som er kjernepunkter i åpen kommunikasjon og grunnleggende kommunikasjonsmodeller (Jacobsen, 2026, 2. 82-83. Gjøsund & Huseby, 2023, s. 65-67, 72).
+Kjernen i god prosjektkommunikasjon er ikke verktøyene i seg selv, men samspillet mellom menneskene. Når teamet utrykker seg presist, lytter etter hva den andre faktisk har oppfattet, og bekrefter forståelsen så blir budskapet til et felles eierskap. Dette resulterer i et delt situasjonsbilde, raskere beslutninger og tryggere samarbeid, noe som er kjernepunkter i åpen kommunikasjon og grunnleggende kommunikasjonsmodeller (Jacobsen, 2016, 2. 82-83. Gjøsund & Huseby, 2015, s. 65-67, 72).
 
 ## Referanseliste
 Gjøsund, P., & Huseby, R. (2015). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk.
+
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 
 ## Deklarasjon av bruk av kunstig intelligens (KI)
