@@ -1,7 +1,7 @@
 import time
 # Vi bruker 'time' for å lage pauser, så teksten ikke kommer alt på én gang.
 
-# --- Variabel for å spore hele stien ---
+# ---- Variabel for å spore hele stien ----
 project_path = "" 
 # Dette er en tom tekststreng. Vi skal "lime" bokstaver på denne etter hvert som du tar valg.
 
