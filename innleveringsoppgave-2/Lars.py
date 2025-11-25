@@ -5,44 +5,43 @@ Sum_Poeng = 0
 
 print("Del 2 Kode ting")
 print("")
-print("OBS! Case sensitive, Bruk store bokstaver")
 
 # spørsmål 1
 print("Spørsmål 1")
-print("A: Valg 1")
-print("B: Valg 2")
+print("1: Valg 1")
+print("2: Valg 2")
 #Tom linje for å få litt plass mellom valgene, enklere å lese
 print("")
 # Input field for å svare, er samme for alle spørsmålene, må vel ikke kopiere det til alle?
-valg1 = input("Velg A eller B: ")
+valg1 = input("Velg 1 eller 2: ")
 
 # Hvis brukeren skriver A, gir den 1 poeng, alt annet gir 2 poeng, og antar at de velger B.
 # ^^ Dette gjelder alle spørsmålene
-if valg1 == "A":
+if valg1 == "1":
     Sum_Poeng += 1
 else:
     Sum_Poeng += 2
 
 # spørsmål 2
 print("Spørsmål 2")
-print("A: Valg 1")
-print("B: Valg 2")
+print("1: Valg 1")
+print("2: Valg 2")
 print("")
-valg2 = input("Velg A eller B: ")
+valg2 = input("Velg 1 eller 2: ")
 
-if valg2 == "A":
+if valg2 == "1":
     Sum_Poeng += 1
 else:
     Sum_Poeng += 2
 
 # spørsmål 3
 print("Spørsmål 3")
-print("A: Valg 1")
-print("B: Valg 2")
+print("1: Valg 1")
+print("2: Valg 2")
 print("")
-valg3 = input("Velg A eller B: ")
+valg3 = input("Velg 1 eller 2: ")
 
-if valg3 == "A":
+if valg3 == "1":
     Sum_Poeng += 1
 else:
     Sum_Poeng += 2
